@@ -16,6 +16,9 @@ sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32ncurses6 l
 # Give execute permission
 chmod +x ModelSimSetup-20.1.1.720-linux.run
 
+# Install
+./ModelSimSetup-20.1.1.720-linux.run
+
 # Export PATH or copy the below line to your .bashrc
 export PATH=$PATH:/home/mohi/intelFPGA/20.1/modelsim_ase/linux
 ```
