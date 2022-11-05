@@ -2,9 +2,9 @@
 
 ## Installation
 
-OS: Debian 11 
-Distro: Mx Linux 21.2
-Modelsim version: ModelSimSetup-20.1.1.720-linux.run
+OS: Debian 11 <br /> 
+Distro: Mx Linux 21.2 <br />
+Modelsim version: ModelSimSetup-20.1.1.720-linux.run <br />
 
 ```bash
 
