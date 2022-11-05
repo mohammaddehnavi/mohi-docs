@@ -4,7 +4,7 @@
 
 OS: Debian 11 <br /> 
 Distro: Mx Linux 21.2 <br />
-Modelsim version: QuartusSetup-18.0.0.614-linux.run <br />
+Quartus version: QuartusSetup-18.0.0.614-linux.run <br />
 
 ```bash
 # Install dependencies
@@ -38,7 +38,7 @@ If you see this error `quartus: error while loading shared libraries: libpng12.s
 cp ./Assets/* /usr/lib/x86_64-linux-gnu/
 ```
 
-- Note: If you need your NIC card ID for your license to these steps: 
+- Note: If you need your NIC ID for your license do these steps: 
 
 ```bash
 # Run ip command to show your NIC interface
