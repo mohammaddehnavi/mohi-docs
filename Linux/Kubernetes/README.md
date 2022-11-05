@@ -11,7 +11,6 @@ sudo su
 curl https://raw.githubusercontent.com/cykerway/complete-alias/master/complete_alias > /etc/bash_completion.d/complete_alias
 
 # Open .bashrc and add the below lines
-
 alias kubectlprod='kubectl --kubeconfig /mohammad/snapp/kubeconfig.MohammadDehnavi.config'
 complete -F _complete_alias kubectlprod
 ```
