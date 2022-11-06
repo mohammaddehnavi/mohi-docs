@@ -145,7 +145,7 @@ Section "Screen"
 EndSection
 ```
 
-Then you need to reset `lightdm` with the command `sudo systemctl restart lightdm`
+Then you need to restart `lightdm` with the command `sudo systemctl restart lightdm`
 
 According to  [this docs](https://wiki.archlinux.org/title/NVIDIA_Optimus) you need set some options to `xrandr` 
 
@@ -174,4 +174,4 @@ sudo chmod +x /etc/lightdm/display_setup.sh
 display-setup-script=/etc/lightdm/display_setup.sh
 ```
 
-Then you need to reset `lightdm` with the command `sudo systemctl restart lightdm`
+Then you need to restart `lightdm` with the command `sudo systemctl restart lightdm`
