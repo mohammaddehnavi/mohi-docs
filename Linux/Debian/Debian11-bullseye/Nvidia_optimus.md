@@ -174,3 +174,4 @@ sudo chmod +x /etc/lightdm/display_setup.sh
 display-setup-script=/etc/lightdm/display_setup.sh
 ```
 
+Then you need to reset `lightdm` with the command `sudo systemctl restart lightdm`
