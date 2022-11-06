@@ -145,6 +145,8 @@ Section "Screen"
 EndSection
 ```
 
+Then you need to reset `lightdm` with the command `sudo systemctl restart lightdm`
+
 According to  [this docs](https://wiki.archlinux.org/title/NVIDIA_Optimus) you need set some options to `xrandr` 
 
 You can see the name of your output provider with the command `xrandr --listproviders`
