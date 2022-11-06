@@ -3,7 +3,9 @@
 Laptop Model: Asus ROG zephyrus gu603z <br /> 
 OS: Debian 11 <br /> 
 Distro: Mx Linux 21.2 <br />
-Nvidia Model: GeForce RTX 3060 Mobile
+Nvidia Model: GeForce RTX 3060 Mobile <br />
+Intel chipset model: 12th Gen Intel(R) Core(TM) i9-12900H <br />
+
 ## Installation
 
 ### Download driver
