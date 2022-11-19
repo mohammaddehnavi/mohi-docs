@@ -25,3 +25,13 @@ SetupPsychtoolbox
 # Checking installation
 PsychtoolboxVersion
 ```
+
+## Solve plot problem with linux and NVIDIA optimus
+
+OS: Debian 11 <br /> 
+Distro: Mx Linux 21.2 <br />
+Matlab version: R2020b <br />
+Nvidia Model: GeForce RTX 3060 Mobile <br />
+Intel chipset model: 12th Gen Intel(R) Core(TM) i9-12900H <br />
+
+`export MESA_LOADER_DRIVER_OVERRIDE=i965; matlab`
