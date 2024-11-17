@@ -41,7 +41,7 @@ Intel chipset model: 12th Gen Intel(R) Core(TM) i9-12900H <br />
 
 OS: Debian 12 <br /> 
 Distro: Mx Linux 23.3 <br />
-Matlab version: R20241 <br />
+Matlab version: R2024a <br />
 Kernel version: 6.11.8-1-liquorix-amd64
 
 we see this error in the installation:
